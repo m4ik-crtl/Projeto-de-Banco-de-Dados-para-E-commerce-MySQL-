@@ -1,4 +1,3 @@
-```md
 # Projeto de Banco de Dados para E-commerce (MySQL)
 
 Este repositório contém o esquema de um banco de dados relacional para um sistema de e-commerce, implementado em MySQL. O projeto inclui a criação de tabelas, inserção de dados de exemplo e uma coleção de consultas SQL para extrair informações de negócio relevantes.
@@ -6,7 +5,7 @@ Este repositório contém o esquema de um banco de dados relacional para um sist
 ## Visão Geral do Projeto
 
 O objetivo deste projeto é modelar os principais processos de um e-commerce, abrangendo:
-* **Clientes:** Cadastro de pessoas físicas (PF) e jurídicas (PJ).
+* *Clientes:* Cadastro de pessoas físicas (PF) e jurídicas (PJ).
 * **Produtos:** Catálogo de produtos, estoque e fornecedores.
 * **Pedidos:** Ciclo de vida de um pedido, desde a criação até o pagamento.
 * **Vendedores:** Associação de vendedores aos pedidos.
@@ -83,4 +82,4 @@ O arquivo `consultas.sql` contém uma série de queries para demonstrar como ext
 
 12. **Listar vendedores que venderam mais de R$ 1000:**
     * **Propósito:** Identificar vendedores de alta performance, útil para comissionamento e análise de equipe.
-```
+
